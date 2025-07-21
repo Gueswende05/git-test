@@ -1,0 +1,2 @@
+Salut.je suis le nouveau fichier que Yanice viens d'ajouter pour tester ses bases
+avec les commandes de base de Git
